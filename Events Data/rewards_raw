@@ -1,0 +1,6 @@
+legendary_rewards = ["Miner Minion", "General 7d", "God Crate Key", "Tier III Flare", "Admiral Rank Седмица", "7 Extra mod"]
+rare_rewards = ["2x Ultra Keys", "2x Tag Keys", "3x Tag Keys", "Collector Minion", "Pathfinder 7d", "Stargater 7d"]
+uncommon_rewards = ["Explorer 7d", "5x Boss Reward Key", "5x Vote Key", "100,000 XP", "Tier III Mod Key", "Chunk Loader 1w"]
+common_rewards = ["1500 MobCoins", "1000 Сиренца", "2500 Сиренца"]
+
+difficulties = hard, medium, easy
